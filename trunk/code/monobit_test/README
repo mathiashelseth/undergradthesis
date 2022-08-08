@@ -1,0 +1,13 @@
+This is an initial test program created in C code.
+
+The program simply runs a monobit test on an input file
+that contains exactly 20.000 bits. This was created only
+to learn more about the test in itself, and to understand
+the concepts behind a single test that together with multiple
+other tests, make a test suite.
+
+Running this program simply needs a RAW input file from a RNG.
+Provide the input file in the positional parameter list when
+running the compiled program.
+
+Example: ./monobit_test inputfile

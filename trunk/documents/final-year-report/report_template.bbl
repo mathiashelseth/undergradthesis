@@ -1,0 +1,259 @@
+\begin{thebibliography}{10}
+
+\bibitem{Becker:2020}
+Georg Becker, Francesco Regazzoni, Christof Paar, and Wayne Burleson.
+\newblock Stealthy dopant-level hardware trojans.
+\newblock In {\em Proceedings of the 15th international conference on
+  Cryptographic Hardware and Embedded Systems}, pages 197--214, 08 2013.
+
+\bibitem{Bellare:2009}
+Mihir Bellare, Zvika Brakerski, Moni Naor, Thomas Ristenpart, Gil Segev, Hovav
+  Shacham, and Scott Yilek.
+\newblock Hedged public-key encryption: How to protect against bad randomness.
+\newblock In Mitsuru Matsui, editor, {\em Advances in Cryptology -- ASIACRYPT
+  2009}, pages 232--249, Berlin, Heidelberg, 2009. Springer Berlin Heidelberg.
+
+\bibitem{Brown:2020}
+James Brown, Jian~Fu Zhang, Bo~Zhou, Mehzabeen Mehedi, Pedro Freitas, John
+  Marsland, and Zhigang Ji.
+\newblock Random-telegraph-noise-enabled true random number generator for
+  hardware security.
+\newblock {\em Scientific Reports}, 10(1), Oct 2020.
+
+\bibitem{Cornejo:2014}
+Mario Cornejo and Sylvain Ruhault.
+\newblock Characterization of real-life prngs under partial state corruption.
+\newblock In {\em Proceedings of the 2014 ACM SIGSAC Conference on Computer and
+  Communications Security}, CCS '14, page 1004–1015, New York, NY, USA, 2014.
+  Association for Computing Machinery.
+
+\bibitem{BSI:2013}
+Bundesamt für Sicherheit in~der Informationstechnik.
+\newblock {\em Evaluation of random number generators}, 2013 (accessed February
+  2021).
+\newblock
+  \url{https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_20_AIS_31_Evaluation_of_random_number_generators_e.pdf?__blob=publicationFile&v=1}.
+
+\bibitem{Garbee:2016}
+Bdale Garbee and Keith Packard.
+\newblock {\em P-Value in Statistical Hypothesis Tests: What is it?}, Jul 09,
+  2016 (accessed March 2021).
+\newblock
+  \url{https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/}.
+
+\bibitem{Bosque:2019}
+M.~{Garcia-Bosque}, G.~{Díez-Señorans}, A.~{Pérez-Resa},
+  C.~{Sánchez-Azqueta}, C.~{Aldea}, and S.~{Celma}.
+\newblock A new lightweight csprng implemented in a 0.18microm cmos technology.
+\newblock In {\em 2019 15th Conference on Ph.D Research in Microelectronics and
+  Electronics (PRIME)}, pages 221--224, 2019.
+
+\bibitem{Gong:2019}
+L.~{Gong}, J.~{Zhang}, H.~{Liu}, L.~{Sang}, and Y.~{Wang}.
+\newblock True random number generators using electrical noise.
+\newblock {\em IEEE Access}, 7:125796--125805, 2019.
+
+\bibitem{Holleman:2008}
+J.~{Holleman}, S.~{Bridges}, B.~P. {Otis}, and C.~{Diorio}.
+\newblock A 3 $\mu$w cmos true random number generator with adaptive
+  floating-gate offset cancellation.
+\newblock {\em IEEE Journal of Solid-State Circuits}, 43(5):1324--1336, 2008.
+
+\bibitem{Hotoleanu:2010}
+D.~{Hoţoleanu}, O.~{Creţ}, A.~{Suciu}, T.~{Gyorfi}, and L.~{Văcariu}.
+\newblock Real-time testing of true random number generators through dynamic
+  reconfiguration.
+\newblock In {\em 2010 13th Euromicro Conference on Digital System Design:
+  Architectures, Methods and Tools}, pages 247--250, 2010.
+
+\bibitem{Smith:2020}
+D.~{Hurley-Smith}, C.~{Patsakis}, and J.~{Hernandez-Castro}.
+\newblock On the unbearable lightness of fips 140-2 randomness tests.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, pages
+  1--1, 2020.
+
+\bibitem{Smith:2018}
+Darren Hurley-Smith and Julio Hernandez-Castro.
+\newblock {\em Great Expectations: A Critique of Current Approaches to Random
+  Number Generation Testing and Certification: 4th International Conference,
+  SSR 2018, Darmstadt, Germany, November 26-27, 2018, Proceedings}, pages
+  143--163.
+\newblock Research Gate, 01 2018.
+
+\bibitem{Huhn:2014}
+Thomas Hühn.
+\newblock {\em Myths about urandom}, 2014 (accessed November 2020).
+\newblock \url{https://www.2uo.de/myths-about-urandom/}.
+
+\bibitem{Jun:1999}
+Benjamin Jun and Paul Kocher.
+\newblock The intel random number generator.
+\newblock {\em Cryptography Research Inc. white paper}, 27:1--8, 1999.
+
+\bibitem{Kesswani:2015}
+Nishtha Kesswani and Sanjay Kumar.
+\newblock Maintaining cyber security: Implications, cost and returns.
+\newblock In {\em Proceedings of the 2015 ACM SIGMIS Conference on Computers
+  and People Research}, SIGMIS-CPR '15, page 161–164, New York, NY, USA,
+  2015. Association for Computing Machinery.
+
+\bibitem{Ecuyer:2007}
+P.~L'Ecuyer and R.~Simard.
+\newblock Testu01: A c library for empirical testing of random number
+  generators.
+\newblock {\em ACM Trans. Math. Softw.}, 33:22:1--22:40, 2007.
+
+\bibitem{Lee:2018}
+Kyungroul Lee, Sunyoung Lee, Changho Seo, and Kangbin Yim.
+\newblock Trng (true random number generator) method using visible spectrum for
+  secure communication on 5g network.
+\newblock {\em IEEE Access}, PP:1--1, 01 2018.
+
+\bibitem{Ecuyer:2013}
+Pierre L’Ecuyer and Richard Simard.
+\newblock {\em TestU01: A Software Library in ANSI C for Empirical Testing of
+  Random Number Generators}, May 16, 2013 (accessed March 2021).
+\newblock \url{http://simul.iro.umontreal.ca/testu01/guideshorttestu01.pdf}.
+
+\bibitem{Mogos:2016}
+G.~{Mogos}.
+\newblock Use quantum random number generator in diffie-hellman key exchange
+  protocol.
+\newblock In {\em 2016 IEEE International Conference on Automation, Quality and
+  Testing, Robotics (AQTR)}, pages 1--6, 2016.
+
+\bibitem{Mowery:2013}
+K.~{Mowery}, M.~{Wei}, D.~{Kohlbrenner}, H.~{Shacham}, and S.~{Swanson}.
+\newblock Welcome to the entropics: Boot-time entropy in embedded devices.
+\newblock In {\em 2013 IEEE Symposium on Security and Privacy}, pages 589--603,
+  2013.
+
+\bibitem{NIST2:2019}
+NIST.
+\newblock {\em FIPS 140-3 SECURITY REQUIREMENTS FOR CRYPTOGRAPHIC MODULES},
+  2019 (accessed December 2020).
+\newblock \url{https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-3.pdf}.
+
+\bibitem{NIST:2019}
+NIST.
+\newblock {\em FIPS 140-3 Transition Effort}, 2019 (accessed November 12 2020).
+\newblock \url{https://csrc.nist.gov/projects/fips-140-3-transition-effort}.
+
+\bibitem{Phelps:2019}
+Bill Phelps.
+\newblock {\em 3 ways to prevent supply chain attacks}, 2019 (accessed November
+  20 2020).
+\newblock
+  \url{https://www.boozallen.com/c/insight/blog/3-ways-to-prevent-supply-chain-attacks.html}.
+
+\bibitem{Polacek:2014}
+Lukáš Poláček.
+\newblock {\em How to shuffle songs?}, February 28, 2014 (accessed February
+  2021).
+\newblock
+  \url{https://engineering.atspotify.com/2014/02/28/how-to-shuffle-songs/}.
+
+\bibitem{Gee:2019}
+Dan Raywood and Tony Gee.
+\newblock {\em 44CON: GPS Trackers Hacked to Make Premium Rate Calls}, 2019
+  (accessed February 10 2021).
+\newblock \url{https://www.infosecurity-magazine.com/news/44con-gps-trackers/}.
+
+\bibitem{Rohe:2003}
+Markus Rohe.
+\newblock Randy-a true-random generator based on radioactive decay.
+\newblock In {\em Security and Cryptography Research Group, Saarland
+  University}, 2003.
+
+\bibitem{RHCGPR:2020}
+University of~London Royal~Holloway.
+\newblock {\em Code of Good Practice for Research}, 2020 (accessed March 20
+  2020).
+\newblock
+  \url{https://intranet.royalholloway.ac.uk/iquad/collegepolicies/documents/pdf/research/codeofgoodresearchpractice.pdf}.
+
+\bibitem{Rubin:2011}
+Jason~M. Rubin.
+\newblock {\em Can a computer generate a truly random number?}, Nov 1, 2011
+  (accessed March 2021).
+\newblock
+  \url{https://engineering.mit.edu/engage/ask-an-engineer/can-a-computer-generate-a-truly-random-number/}.
+
+\bibitem{Rukhin:2010}
+A.~Rukhin, J.~Soto, J.~Nechvatal, M.~Smid, E.~Barker, S.~Leigh, M.~Levenson,
+  M.~Vangel, D.~Banks, A.~Heckert, J.~Dray, and S.~Vo.
+\newblock A statistical test suite for random and pseudorandom number
+  generators for cryptographic applications.
+\newblock {\em NIST}, 1a(SP800-22), 2010.
+
+\bibitem{BCS:2020}
+British~Computing Society.
+\newblock {\em BCS Code of Conduct}, 2020 (accessed November 20 2020).
+\newblock \url{https://www.bcs.org/media/2211/bcs-code-of-conduct.pdf}.
+
+\bibitem{Stipcevic:2014}
+Mario Stipčević and Çetin Koç.
+\newblock {\em True Random Number Generators}, pages 275--315.
+\newblock Research Gate, 11 2014.
+
+\bibitem{Thamrin:2008}
+N.~M. {Thamrin}, G.~{Witjaksono}, A.~{Nuruddin}, and M.~S. {Abdullah}.
+\newblock A photonic-based random number generator for cryptographic
+  application.
+\newblock In {\em 2008 Ninth ACIS International Conference on Software
+  Engineering, Artificial Intelligence, Networking, and Parallel/Distributed
+  Computing}, pages 356--361, 2008.
+
+\bibitem{Toutenburg:1971}
+H.~Toutenburg.
+\newblock Fisher, r. a., and f. yates: Statistical tables for biological,
+  agricultural and medical research. 6th ed. oliver \& boyd, edinburgh and
+  london 1963. x, 146 p. preis 42 s net.
+\newblock {\em Biometrische Zeitschrift}, 13(4):285--285, 1971.
+
+\bibitem{Vassilev:2014}
+A.~{Vassilev} and T.~A. {Hall}.
+\newblock The importance of entropy to information security.
+\newblock {\em Computer}, 47(2):78--81, 2014.
+
+\bibitem{Vuillemin:2012}
+Thibaut Vuillemin, Fran{\c{c}}ois Goichon, C{\'e}dric Lauradoux, and Guillaume
+  Salagnac.
+\newblock Entropy transfers in the linux random number generator.
+\newblock {\em hal-00738638, version}, pages 1--4, 2012.
+
+\bibitem{Xu:2008}
+J.~{Xu}.
+\newblock Managing the risk of supply chain disruption: Towards a resilient
+  approach of supply chain management.
+\newblock In {\em 2008 ISECS International Colloquium on Computing,
+  Communication, Control, and Management}, volume~3, pages 3--7, 2008.
+
+\bibitem{Yang:2016}
+CAO Yang.
+\newblock Securing hardware random number generators against physical attacks.
+\newblock {\em KU Leuven}, 2016.
+
+\bibitem{Yilek:2009}
+Scott Yilek, Eric Rescorla, Hovav Shacham, Brandon Enright, and Stefan Savage.
+\newblock When private keys are public: Results from the 2008 debian openssl
+  vulnerability.
+\newblock In {\em Proceedings of the 9th ACM SIGCOMM Conference on Internet
+  Measurement}, IMC '09, page 15–27, New York, NY, USA, 2009. Association for
+  Computing Machinery.
+
+\bibitem{Cabuk:2017}
+Umut Çabuk, Ömer Aydın, and Gökhan Dalkılıç.
+\newblock A random number generator for lightweight authentication protocols:
+  xorshiftr+.
+\newblock {\em Turkish Journal of Electrical Engineering and Computer
+  Sciences}, 25:31, 12 2017.
+
+\bibitem{Loza:2015}
+Szymon Łoza, Łukasz Matuszewski, and Mieczysław Jessa.
+\newblock A random number generator using ring oscillators and sha-256 as
+  post-processing.
+\newblock {\em International Journal of Electronics and Telecommunications},
+  61, 06 2015.
+
+\end{thebibliography}

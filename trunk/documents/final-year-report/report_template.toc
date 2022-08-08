@@ -1,0 +1,19 @@
+\contentsline {chapter}{Acknowledgements}{3}{chapter*.2}%
+\contentsline {chapter}{Introduction}{4}{chapter*.3}%
+\contentsline {section}{Aims}{4}{section*.4}%
+\contentsline {section}{Background}{4}{section*.5}%
+\contentsline {chapter}{Project Specification}{6}{chapter*.6}%
+\contentsline {section}{Feature Specification}{6}{section*.7}%
+\contentsline {section}{Technology Choices}{6}{section*.8}%
+\contentsline {subsubsection}{Makefile}{7}{section*.11}%
+\contentsline {chapter}{Literature Review}{9}{chapter*.12}%
+\contentsline {section}{Hardware Random Number Generators}{12}{section*.13}%
+\contentsline {section}{Supply Chain Attacks}{18}{section*.15}%
+\contentsline {chapter}{Methodology}{21}{chapter*.16}%
+\contentsline {chapter}{Testing and Results}{29}{chapter*.17}%
+\contentsline {chapter}{Professional Issues}{31}{chapter*.18}%
+\contentsline {chapter}{Reflective Statement}{32}{chapter*.19}%
+\contentsline {section}{Future aims}{32}{section*.20}%
+\contentsline {section}{Diary entries}{33}{section*.21}%
+\contentsline {chapter}{Bibliography}{34}{section*.21}%
+\contentsline {chapter}{Appendix A}{37}{chapter*.23}%

@@ -1,0 +1,62 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.4)  8 APR 2021 02:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**final_report.cls
+(./final_report.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+
+LaTeX Warning: You have requested package `',
+               but the package provides `final_report'.
+
+Package: final_report 
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+
+./final_report.cls:3: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...cludehead,headheight=1.5cm,pdftex,hmargin={
+                                                  3cm,2.5cm},vmargin={0cm,2c...
+
+? 
+./final_report.cls:3: Emergency stop.
+ ...                                              
+                                                  
+l.3 ...cludehead,headheight=1.5cm,pdftex,hmargin={
+                                                  3cm,2.5cm},vmargin={0cm,2c...
+
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+ 
+Here is how much of TeX's memory you used:
+ 232 strings out of 480608
+ 2792 string characters out of 5903631
+ 239610 words of memory out of 5000000
+ 16216 multiletter control sequences out of 15000+600000
+ 532638 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,0n,21p,261b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+./final_report.cls:3:  ==> Fatal error occurred, no output PDF file produced!

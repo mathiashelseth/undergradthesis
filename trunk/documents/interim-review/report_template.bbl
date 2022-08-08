@@ -1,0 +1,89 @@
+\begin{thebibliography}{10}
+
+\bibitem{Brown:2020}
+James Brown, Jian~Fu Zhang, Bo~Zhou, Mehzabeen Mehedi, Pedro Freitas, John
+  Marsland, and Zhigang Ji.
+\newblock Random-telegraph-noise-enabled true random number generator for
+  hardware security.
+\newblock {\em Scientific Reports}, 10(1), Oct 2020.
+
+\bibitem{Han:2009}
+Daewan Han and Daesung Kwon.
+\newblock Vulnerability of an rfid authentication protocol conforming to epc
+  class 1 generation 2 standards.
+\newblock {\em Computer Standards and Interfaces}, 31(4):648 -- 652, 2009.
+
+\bibitem{Holleman:2008}
+J.~{Holleman}, S.~{Bridges}, B.~P. {Otis}, and C.~{Diorio}.
+\newblock A 3 $\mu$w cmos true random number generator with adaptive
+  floating-gate offset cancellation.
+\newblock {\em IEEE Journal of Solid-State Circuits}, 43(5):1324--1336, 2008.
+
+\bibitem{Hotoleanu:2010}
+D.~{Hoţoleanu}, O.~{Creţ}, A.~{Suciu}, T.~{Gyorfi}, and L.~{Văcariu}.
+\newblock Real-time testing of true random number generators through dynamic
+  reconfiguration.
+\newblock In {\em 2010 13th Euromicro Conference on Digital System Design:
+  Architectures, Methods and Tools}, pages 247--250, 2010.
+
+\bibitem{Smith:2020}
+D.~{Hurley-Smith}, C.~{Patsakis}, and J.~{Hernandez-Castro}.
+\newblock On the unbearable lightness of fips 140-2 randomness tests.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, pages
+  1--1, 2020.
+
+\bibitem{Smith:2018}
+Darren Hurley-Smith and Julio Hernandez-Castro.
+\newblock {\em Great Expectations: A Critique of Current Approaches to Random
+  Number Generation Testing and Certification: 4th International Conference,
+  SSR 2018, Darmstadt, Germany, November 26-27, 2018, Proceedings}, pages
+  143--163.
+\newblock Research Gate, 01 2018.
+
+\bibitem{Jun:1999}
+Benjamin Jun and Paul Kocher.
+\newblock The intel random number generator.
+\newblock {\em Cryptography Research Inc. white paper}, 27:1--8, 1999.
+
+\bibitem{NIST:2019}
+NIST.
+\newblock {\em FIPS 140-3 Transition Effort}, 2019 (accessed November 12 2020).
+\newblock \url{https://csrc.nist.gov/projects/fips-140-3-transition-effort}.
+
+\bibitem{Phelps:2019}
+Bill Phelps.
+\newblock {\em 3 ways to prevent supply chain attacks}, 2019 (accessed November
+  20 2020).
+\newblock
+  \url{https://www.boozallen.com/c/insight/blog/3-ways-to-prevent-supply-chain-attacks.html}.
+
+\bibitem{Rohe:2003}
+Markus Rohe.
+\newblock Randy-a true-random generator based on radioactive decay.
+\newblock In {\em Security and Cryptography Research Group, Saarland
+  University}, 2003.
+
+\bibitem{Rukhin:2010}
+A.~Rukhin, J.~Soto, J.~Nechvatal, M.~Smid, E.~Barker, S.~Leigh, M.~Levenson,
+  M.~Vangel, D.~Banks, A.~Heckert, J.~Dray, and S.~Vo.
+\newblock A statistical test suite for random and pseudorandom number
+  generators for cryptographic applications.
+\newblock {\em NIST}, 1a(SP800-22), 2010.
+
+\bibitem{Stipcevic:2014}
+Mario Stipčević and Çetin Koç.
+\newblock {\em True Random Number Generators}, pages 275--315.
+\newblock Research Gate, 11 2014.
+
+\bibitem{Vuillemin:2012}
+Thibaut Vuillemin, Fran{\c{c}}ois Goichon, C{\'e}dric Lauradoux, and Guillaume
+  Salagnac.
+\newblock Entropy transfers in the linux random number generator.
+\newblock {\em hal-00738638, version}, pages 1--4, 2012.
+
+\bibitem{Yang:2016}
+CAO Yang.
+\newblock Securing hardware random number generators against physical attacks.
+\newblock {\em KU Leuven}, 2016.
+
+\end{thebibliography}
